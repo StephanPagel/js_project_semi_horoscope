@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section {
+    width: 17%;
+    margin: 10% auto;
+    text-align: center;
+    border-bottom: 1px solid grey;
+    box-shadow: 10px 10px 10px grey;
+    background: rgb(242, 242, 242);
+    padding: 2%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+    padding: 3%;
+}
+
+h2 {
+    margin: 5% 0;
+}
